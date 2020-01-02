@@ -1,0 +1,244 @@
+Mordechai Sackstein (M)
+Ada Rebecca Sackstein (F)
+	Charles Sackstein (id=GGCharlie, M)
+	Haimi Sackstein (M, id=Haimi)
+	Gedalia Sackstein (M, id=Gedalia)
+	Golda Sackstein (F, id=GoldaS)
+	Morris Sackstein (M, id=Morris)
+
+H M Aronshtam (id=HM, M)
+Wife (id=HMWife, F)
+	Minnie Aronshtam (id=GGMin, F, surname=Sackstein)
+	Arnold Austin Aronshtam (id=Nunky, M)
+
+Charles Sackstein (id=GGCharlie)
+Minnie Aronshtam (id=GGMin, surname=Sackstein)
+	Golda Rebecca Sackstein (id=GMGolda, F, surname=Steinberg, birthday=23rd May 1928)
+	Naomi Shirley Sackstein (id=ANonie, F, surname=Kingston)
+
+Adolf Neiman (M, notes=Brighton m. 1859 in London)
+Elizabeth Neiman
+
+Behr Steinberg (id=Behr, M, birthday=c.1816)
+Eustine Jablonski (id=Jablo, F, hidnotes=Geni has it as Ernestine Sarah)
+	Mary Steinberg (id=Mary, F, birthday=c.1865)
+	Rebecca Steinberg (id=RebecStein, F, birthday=c.1867)
+	Hannah Steinberg (id=HanStein, F, birthday=c.1869)
+	Minnie Steinberg (id=MinStein, F, birthday=c.1871)
+	Morris Steinberg (id=Morris, M)
+	Samuel Steinberg (M, id=GGGSammy, hidnotes=kids found on geni)
+
+Morris Steinberg (id=Morris)
+Maria Elizabeth Firth (id=LizFirth, F, surname=Steinberg)
+	Minnie Steinberg (id=MinStein2, F, birthday=1909)
+	Gertrude Steinberg (id=GertieS, F, birthday=1911)
+
+Samuel Steinberg (id=GGGSammy)
+Elizabeth Neiman (F, id=LizNei, birthday=1864, hidnotes=m in lpool 1882)
+	Esther Steinberg (id=EstherStein, F, birthday=c.1884)
+	Isabelle Steinberg (id=Isabelle, F, birthday=c.1886)
+	Bernard Steinberg (id=Benny, M, birthday=1887)
+	Amelia Steinberg (id=AmelStein, F, birthday=1889)
+	Adelina Steinberg (id=Adelina, F, surname=Lewis, birthday=1895, deathday=1969)
+	Beatrice Steinberg (id=Beat, F, birthday=1897)
+	Arthur Valentine Steinberg (id=AValBenSam, M, birthday=1899, deathday=1915, notes=story about death)
+	Albert Edward Steinberg (id=AlEd, M, birthday=1901)
+	Lily Steinberg (id=Lily, F, birthday=1903)
+
+Joseph Lewis (M)
+Adelina Steinberg (id=Adelina)
+	Millie Lewis (F, birthday=1915)
+	Lazarus L Lewis (M, birthday=1917)
+	Sydney Lewis (M, birthday=1920)
+	Samuel Lewis (M, birthday=1922)
+
+Bernard Steinberg (id=Benny)
+Sarah MaidenName Cooklin (if=GGBennyWife, F, surname=Steinberg, hidnotes=married in lpool 1914, sn Caplan nee Fagin)
+	Arthur Valentine Steinberg (id=AValBenBenny, M, birthday=1915)
+	Montague Adolphus Steinberg (id=Monty, M, deathday=18th December 1999)
+	Samuel Steinberg (id=Sammy, M)
+	Ronald Steinberg (id=GPRonnie, M, birthday=23rd December 1927)
+	Evelyn Steinberg (id=Evei, F, hidnotes=maybe1stmarriage 19Hilltop Road)
+	Esther Steinberg (id=Esther, F, hidnotes=maybe1stmarriage 19Hilltop Road)
+
+Arthur Valentine Steinberg (id=Arthur)
+Marie Boden (surname=Steinberg, F, notes=NJ and married in Manc 1941)
+	Rosemary Steinberg (id=Rosemary, F, surname=Hocking)
+
+Steven Hocking (M, notes=Married 1968 L'pool)
+Rosemary Hocking (id=Rosemary)
+	Alison Hocking (F, birthday=1975, id=Alison)
+	Ruth Hocking (F, id=Ruth)
+
+Mark Geller (M)
+Ruth Hocking (id=Ruth)
+	Oliver Geller (M, birthday=2008)
+	Daniel Geller (M, birthday=2011)
+
+Montague Adolphus Steinberg (id=Monty, notes=marry 1954)
+Vera Goldberg (id=Vera, F, deathday=13th December 2019)
+	Sharon Steinberg (id=SLevine, F, surname=Levene)
+	David Steinberg (id=DaveStein, M)
+
+David Steinberg (id=DaveStein)
+Maxine XYZ (id=Maxine, F, surname=Steinberg)
+	Elliott Steinberg (M)
+	Lee Steinberg (M)
+	Adam Steinberg (M)
+
+Barry Levine (M)
+Sharon Steinberg (id=SLevine)
+	Robert Levine (M)
+	Judith Levine (F)
+
+Samuel Steinberg (id=Sammy)
+Shirley (F, surname=Steinberg)
+	Penelope Steinberg (id=Penny, F)
+	Bruce Steinberg (id=Bruce, M)
+
+Samuel Steinberg (id=Sammy)
+Freda Feather (F)
+
+Ronald Steinberg (id=GPRonnie)
+Golda Rebecca Sackstein (id=GMGolda)
+	Max Steinberg (id=UMax, M, birthday=22nd January 1952)
+	Barry Hugh Steinberg (id=Dad, M, birthday=25th May 1954)
+	Helena Sarah Steinberg (id=AHelena, F, surname=Chait, birthday=15th August 1957)
+	Ian Beverley Steinberg (id=UIan, M, birthday=18th January 1960)
+
+Max Steinberg (id=UMax)
+Sharon Abisgold (id=ASharon, F, surname=Steinberg, birthday=May)
+	Paul Craig Steinberg (M)
+	Lianne Ruth Steinberg (F)
+
+Barry Hugh Steinberg (id=Dad, notes=Marry 30thAug1977)
+Tova Rochelle Aaron (id=Mum, F, birthday=1956-07-24)
+	Shoshana Miriam Batsheva Steinberg (id=Shoshi, F, birthday=28th September 1983, surname=Loofe)
+	Avraham Aharon Yechezkel Steinberg (id=Avi, M, birthday=25th March 1984)
+	Dovid Shmuel Binyomin Steinberg (id=Dov, M, birthday=4th February 1988)
+	Moshe Zalman Mattanyahu Steinberg (id=Moshe, M, birthday=20th August 1995)
+
+Michael Loofe (id=Mike, M, birthday=1986-12-07)
+Shoshana Miriam Batsheva Steinberg (id=Shoshi)
+	Amelia Pearl Loofe(id=Milly, F, birthday=2016-11-11)
+
+Gabriel Evans(id=Gabe, M)
+Shoshana Miriam Batsheva Steinberg (id=Shoshi)
+	Meira Esther Leah Evans (id=Meira, F, birthday=15th September 2007)
+	Ariel Yerachmiel Simcha Evans (id=Ariel, M, birthday=15th June 2010)
+	
+Avraham Aharon Yechezkel Steinberg (id=Avi)
+Mazal Perez (id=Mazal, F)
+	Daniel Moshe Steinberg (id=Daniel, M, birthday=9th November 2010)
+
+Moshe Zalman Mattanyahu Steinberg (id=Moshe)
+Aliza Gavriella Marriott (id=Aliza, F, birthday=16th August 1994, surname=Steinberg)
+
+Henry Mark Chait (id=UHenry, M)
+Helena Sarah Steinberg (id=AHelena)
+	Elizabeth Rose Chait (id=Liz, F, surname=Lader)
+	Benjamin Moses Chait (id=Benjy, M)
+	Albert Sebastian Chait (id=Albie, M)
+	Fiona Cecilia Chait (id=Fiona, F, surname=Shorrick)
+	Eva Gertrude Chait (id=Eva, F, surname=Grossberger)
+	Charles Nethaniel Chait (id=Charlie, M)
+	Selena Victoria Chait (id=Selena, F, surname=Myers)
+
+Simon Lader (M)
+Elizabeth Rose Chait (id=Liz)
+	Sammy Lader (M)
+	Josh Lader (M)
+	Gavriella Lader (F)
+
+Benjamin Moses Chait (id=Benjy)
+Dassy (F)
+	Liel Chait
+	2ndChild
+
+Albert Sebastian Chait (id=Albie)
+Gila Feldman (F)
+	Kid1 (F)
+	Kid2
+	Kid3
+
+Morale Shorrick (M)
+Fiona Chait (id=Fiona)
+	Harry Shorrick (M)
+
+Avigdor Grossberger (M)
+Eva Chait (id=Eva)
+	Yerachmiel Grossberger (M)
+	Malka Grossberger (F)
+	Aron Grossberger (M)
+	Tehilla Grossberger (F)
+
+Charles Nethaniel Chait (id=Charlie)
+Rochel Fulda (F)
+	Adiella Chait (F)
+	Maya Golda Rebecca Chait (F, birthday=December 2019)
+
+Rafi Myers (M)
+Selena Victoria Chait (F, id=Selena)
+	Natalie Myers (F)
+
+Ian Beverley Steinberg (id=UIan)
+Kim Beverley  (F, surname=Steinberg)
+	Scott Steinberg (M)
+	Hayden Steinberg (M)
+
+Leslie Aaron (M, id=GPLeslie)
+Esther Leah Davidson (F, id=GMEsther)
+	Chaim Aaron (M, id=UC)
+	Tova Rochelle Aaron (id=Mum)
+	Joseph Zechariah Aaron (M, id=UJ)
+
+GME Dad (M)
+GME Mum (F)
+	Esther Leah Davidson (id=GMEsther)
+	Shirley Davidson (id=AShirley, F)
+
+Elkan Rex Makin (M)
+Shirley Davidson (id=AShirley)
+	Robin Makin (M, id=Robin)
+	Susan Makin (F)
+
+Robin Makin (id=Robin)
+Madeleine XYZ (F, surname=Makin)
+	Moses Makin (M)
+	Miriam Makin (F)
+
+Mirvin Kingston (M)
+Naomi Shirley Sackstein (F, id=ANonie)
+	Mark Kingston (M, id=Mark)
+	Bernard Kingston (M, id=Bern, notes=3rd wife Amanda)
+	Sara Kingston (F, id=SaraK)
+
+Mark Kingston (id=Mark)
+Lizzete XYZ (F)
+	Emma Kingston (F)
+	Rebecca Kingston (F, notes=aka Bex)
+	Sammy Kingston (M)
+
+Bernard Kingston (id=Bern)
+Rachel XYZ (F)
+	Zoe Kingston (F)
+
+Bernard Kingston (id=Bern)
+Joanna XYZ (F)
+	Talia Kingston (F)
+
+Fraser Saville (M)
+Sara Kingston (id=SaraK)
+	Justine Saville (F)
+	
+
+
+#People to fit in
+#Grants
+#Bacalls
+#Samsons
+#Learmans - Uncle Sammy? Inc Jillian
+#Rav Moshe Young
+#Shoshana Yodaiken
+#Hockings
+#Stantons inc Gillian
