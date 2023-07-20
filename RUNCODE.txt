@@ -1,7 +1,0 @@
-cd Desktop\Personal\familytreemaker-master
-python familytreemaker.py Steinbergfamily.txt > GraphCode.txt
-python familytreemaker.py -a Benny Steinbergfamily.txt > GraphCode.txt
-dot GraphCode.txt -Tpng > Pic.png
-
-python familytreemaker.py -a Benny -oo yes Steinbergfamily.txt >BennyGraphCode.txt
-dot BennyGraphCode.txt -Tpng > BennyTree.png

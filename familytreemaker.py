@@ -424,6 +424,29 @@ def main():
 		family.output_descending_tree_MOSHE(ancestor)
 	else:
 		family.output_descending_tree(ancestor)
+		
+def RunMainFromPython(FileName, Ancestor=None, onlyoffspring=True):
+	# Create the family
+	family = Family()
+
+	# Populate the family
+	f = open(FileName, 'r', encoding='utf-8')
+	family.populate(f)
+	f.close()
+
+	# Find the ancestor from whom the tree is built
+	if Ancestor:
+		ancestor = family.find_person(Ancestor)
+		if not ancestor:
+			raise Exception('Cannot find person "' + Ancestor + '"')
+	else:
+		ancestor = family.find_first_ancestor()
+
+	# Output the graph descriptor, in DOT format
+	if onlyoffspring:
+		family.output_descending_tree_MOSHE(ancestor)
+	else:
+		family.output_descending_tree(ancestor)
 
 if __name__ == '__main__':
 	main()

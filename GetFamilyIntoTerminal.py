@@ -7,7 +7,7 @@ Created on Thu Dec 19 18:47:27 2019
 import os
 import familytreemaker as ftm
 
-os.chdir(r'C:\Users\MS13\Desktop\Personal\familytreemaker-master')
+os.chdir(r'C:\Users\SteinbergMoshe\Documents\03 Python\familytreemaker-master')
 
 family = ftm.Family()
 
